@@ -42,11 +42,11 @@ def get_distance(point1: dict, point2: dict) -> tuple:
     - tuple: A tuple containing the distance (in meters) and duration (in seconds) of the route.
     """
     url = (
-            "http://router.project-osrm.org/route/v1/driving/"
-            f"{point1['longitude']},{point1['latitude']};"
-            f"{point2['longitude']},{point2['latitude']}"
-            "?overview=false&alternatives=false"
-        )
+        "http://router.project-osrm.org/route/v1/driving/"
+        f"{point1['longitude']},{point1['latitude']};"
+        f"{point2['longitude']},{point2['latitude']}"
+        "?overview=false&alternatives=false"
+    )
     r = requests.get(url)
 
     # get the distance from the returned values

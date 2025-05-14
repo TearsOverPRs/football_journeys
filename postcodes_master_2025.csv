@@ -1,96 +1,96 @@
 ﻿team,ground,postcode,county_fa,latitude,longitude,league,league_key,step
-AFC Bournemouth,Vitality Stadium,BH7 7AF,Hampshire,50.735313,-1.839234,Premier League,1,Professional 
-Arsenal,Emirates Stadium,N5 1BU,London,51.556667,-0.106371,Premier League,1,Professional 
-Aston Villa,Villa Park,B6 6HE,Birmingham,52.508486,-1.884946,Premier League,1,Professional 
-Brentford,Brentford Community Stadium,TW8 9BW,London,51.491117,-0.290548,Premier League,1,Professional 
-Brighton & Hove Albion,Amex Stadium,BN1 9BL,Sussex,50.860916,-0.08428,Premier League,1,Professional 
-Burnley,Turf Moor,BB10 4BX,Lancashire,53.78847,-2.230325,Premier League,1,Professional 
-Chelsea,Stamford Bridge,SW6 1HS,Surrey,51.481124,-0.190297,Premier League,1,Professional 
-Crystal Palace,Selhurst Park,SE25 6PU,Surrey,51.397894,-0.085923,Premier League,1,Professional 
-Everton,Goodison Park,L4 4EL,Lancashire,53.439197,-2.967017,Premier League,1,Professional 
-Fulham,Craven Cottage,SW6 6HH,London,51.47452,-0.22061,Premier League,1,Professional 
-Leeds United,Elland Road,LS11 0ES,West Riding,53.777714,-1.573104,Premier League,1,Professional 
-Liverpool,Anfield,L4 0TH,Lancashire,53.431267,-2.961584,Premier League,1,Professional 
-Manchester City,Etihad Stadium,M11 3FF,Manchester,53.484206,-2.202812,Premier League,1,Professional 
-Manchester United,Old Trafford,M16 0RA,Manchester,53.462559,-2.291032,Premier League,1,Professional 
-Newcastle United,St. James' Park,NE1 4ST,Northumberland,54.975219,-1.622324,Premier League,1,Professional 
-Nottingham Forest,The City Ground,NG2 5FJ,Nottinghamshire,52.939444,-1.133199,Premier League,1,Professional 
-Sheffield United,Bramall Lane,S2 4SU,Sheffield & Hallamshire,53.36986,-1.470512,Premier League,1,Professional 
-Tottenham Hotspur,Tottenham Hotspur Stadium,N17 0BX,London,51.6042,-0.067574,Premier League,1,Professional 
-West Ham United,London Stadium,E20 2ST,London,51.538636,-0.016403,Premier League,1,Professional 
-Wolverhampton Wanderers,Molineux Stadium,WV1 4QR,Birmingham,52.590195,-2.131226,Premier League,1,Professional 
-Birmingham City,St. Andrew's Stadium,B9 4RL,Birmingham,52.474922,-1.864112,Championship,2,Professional 
-Blackburn Rovers,Ewood Park,BB2 4JF,Lancashire,53.728618,-2.489965,Championship,2,Professional 
-Bristol City,Ashton Gate Stadium,BS3 2EJ,Gloucestershire,51.440713,-2.620602,Championship,2,Professional 
-Coventry City,Coventry Building Society Arena,CV6 6GE,Birmingham,52.448773,-1.496282,Championship,2,Professional 
-Derby County,Pride Park Stadium,DE24 8XL,Derbyshire,52.914633,-1.447968,Championship,2,Professional 
-Hull City,MKM Stadium,HU3 6HU,East Riding,53.745731,-0.368016,Championship,2,Professional 
-Ipswich Town,Portman Road,IP1 2DA,Suffolk,52.054732,1.144614,Championship,2,Professional 
-Leicester City,King Power Stadium,LE2 7FL,Leicestershire & Rutland,52.620044,-1.1415,Championship,2,Professional 
-Middlesbrough,Riverside Stadium,TS3 6RS,North Riding,54.578124,-1.217764,Championship,2,Professional 
-Millwall,The Den,SE16 3LN,London,51.486671,-0.051053,Championship,2,Professional 
-Norwich City,Carrow Road,NR1 1JE,Norfolk,52.62238,1.308603,Championship,2,Professional 
-Oxford United,Kassam Stadium,OX4 4XP,Oxfordshire,51.717066,-1.210957,Championship,2,Professional 
-Portsmouth,Fratton Park,PO4 8RA,Hampshire,50.795923,-1.064882,Championship,2,Professional 
-Preston North End,Deepdale,PR1 6RU,Lancashire,53.772236,-2.689327,Championship,2,Professional 
-Queens Park Rangers,Loftus Road Stadium,W12 7PA,London,51.51023,-0.23082,Championship,2,Professional 
-Sheffield Wednesday,Hillsborough Stadium,S6 1SW,Sheffield & Hallamshire,53.410844,-1.500859,Championship,2,Professional 
-Southampton,St. Mary's Stadium,SO14 5FP,Hampshire,50.90653,-1.390823,Championship,2,Professional 
-Stockport County,Edgeley Park,SK3 9DD,Cheshire,53.399922,-2.167127,Championship,2,Professional 
-Stoke City,bet365 Stadium,ST4 4EG,Staffordshire,52.988255,-2.176078,Championship,2,Professional 
-Sunderland,Stadium of Light,SR5 1SU,Durham,54.914063,-1.3893,Championship,2,Professional 
-Swansea City,Swansea.com Stadium,SA1 2FA,Wales,51.642156,-3.935119,Championship,2,Professional 
-Watford,Vicarage Road Stadium,WD18 0ER,Hertfordshire,51.649275,-0.400727,Championship,2,Professional 
-West Bromwich Albion,The Hawthorns,B71 4LF,Birmingham,52.509003,-1.963299,Championship,2,Professional 
-Wrexham,Racecourse Ground,LL11 2AH,Wales,53.051259,-3.003854,Championship,2,Professional 
-Barnsley,Oakwell Stadium,S71 1ET,Sheffield & Hallamshire,53.552266,-1.468631,League One,3,Professional 
-Blackpool,Bloomfield Road,FY1 6JJ,Lancashire,53.805489,-3.04853,League One,3,Professional 
-Bolton Wanderers,University of Bolton Stadium,BL6 6JW,Lancashire,53.580169,-2.536279,League One,3,Professional 
-Bradford City,University of Bradford Stadium,BD8 7DY,West Riding,53.803578,-1.759482,League One,3,Professional 
-Burton Albion,Pirelli Stadium,DE13 0AR,Birmingham,52.821462,-1.627002,League One,3,Professional 
-Cardiff City,Cardiff City Stadium,CF11 8AZ,Wales,51.47332,-3.206425,League One,3,Professional 
-Charlton Athletic,The Valley,SE7 8BL,London,51.486242,0.037152,League One,3,Professional 
-Doncaster Rovers,The Eco-Power Stadium,DN4 5JW,Sheffield & Hallamshire,53.509088,-1.113845,League One,3,Professional 
-Exeter City,St. James' Park,EX4 6PX,Devon,50.730109,-3.520741,League One,3,Professional 
-Huddersfield Town,The John Smith's Stadium,HD1 6PX,West Riding,53.654016,-1.773209,League One,3,Professional 
-Leyton Orient,Breyer Group Stadium,E10 5NF,London,51.560212,-0.011886,League One,3,Professional 
-Lincoln City,LNER Stadium,LN5 8LD,Lincolnshire,53.218176,-0.540056,League One,3,Professional 
-Luton Town,Kenilworth Stadium,LU4 8AW,Bedfordshire,51.884014,-0.43236,League One,3,Professional 
-Mansfield Town,One Call Stadium,NG18 5DA,Nottinghamshire,53.137436,-1.200135,League One,3,Professional 
-Milton Keynes Dons,Stadium MK,MK1 1ST,Berkshire & Buckinghamshire,52.010801,-0.734859,League One,3,Professional 
-Northampton Town,Sixfields Stadium,NN5 5QA,Northamptonshire,52.23506,-0.934214,League One,3,Professional 
-Notts County,Meadow Lane Stadium,NG2 3HJ,Nottinghamshire,52.942243,-1.136105,League One,3,Professional 
-Peterborough United,Weston Homes Stadium,PE2 8AL,Northamptonshire,52.565257,-0.240279,League One,3,Professional 
-Plymouth Argyle,Home Park,PL2 3DQ,Devon,50.387394,-4.1517,League One,3,Professional 
-Port Vale,Vale Park,ST6 1AW,Staffordshire,53.050408,-2.191697,League One,3,Professional 
-Reading,The Select Car Leasing Stadium,RG2 0FL,Berkshire & Buckinghamshire,51.422325,-0.983497,League One,3,Professional 
-Rotherham United,AESSEAL New York Stadium,S60 1FJ,Sheffield & Hallamshire,53.426838,-1.361705,League One,3,Professional 
-Stevenage,The Lamex Stadium,SG2 8RH,Hertfordshire,51.890106,-0.194288,League One,3,Professional 
-Wigan Athletic,DW Stadium,WN5 0UH,Lancashire,53.543987,-2.653787,League One,3,Professional 
-Wycombe Wanderers,Adams Park,HP12 4HJ,Berkshire & Buckinghamshire,51.631583,-0.795977,League One,3,Professional 
-Accrington Stanley,Wham Stadium,BB5 5BX,Lancashire,53.764175,-2.370435,League Two,4,Professional 
-AFC Wimbledon,Cherry Red Records Stadium,SW17 0NR,Surrey,51.431274,-0.186585,League Two,4,Professional 
-Barnet,The Hive,HA8 6AG,Middlesex,51.601518,-0.288874,League Two,4,Professional 
-Barrow,The Dunes Hotel Stadium,LA14 5UW,Lancashire,54.123653,-3.235026,League Two,4,Professional 
-Bristol Rovers,Memorial Stadium,BS7 0AQ,Gloucestershire,51.487415,-2.583805,League Two,4,Professional 
-Bromley,Hayes Lane,BR2 9EF,Kent,51.390984,0.01771,League Two,4,Professional 
-Cambridge United,Abbey Stadium,CB5 8LN,Cambridgeshire,52.212845,0.154021,League Two,4,Professional 
-Cheltenham Town,The Completely Suzuki Stadium,GL52 5NA,Gloucestershire,51.905576,-2.062093,League Two,4,Professional 
-Chesterfield,Technique Stadium,S41 8NZ,Derbyshire,53.253614,-1.425003,League Two,4,Professional 
-Colchester United,JobServe Community Stadium,CO4 5UP,Essex,51.923322,0.896991,League Two,4,Professional 
-Crawley Town,Broadfield Stadium,RH11 9RX,Sussex,51.099568,-0.195395,League Two,4,Professional 
-Crewe Alexandra,Mornflake Stadium,CW2 6EB,Cheshire,53.087931,-2.436102,League Two,4,Professional 
-Fleetwood Town,Highbury Stadium,FY7 6TX,Lancashire,53.916823,-3.022953,League Two,4,Professional 
-Gillingham,MEMS Priestfield Stadium,ME7 4DD,Kent,51.384873,0.55976,League Two,4,Professional 
-Grimsby Town,Blundell Park,DN35 7PY,Lincolnshire,53.570821,-0.046658,League Two,4,Professional 
-Harrogate Town,The EnviroVent Stadium,HG2 7SA,West Riding,53.991495,-1.517051,League Two,4,Professional 
-Newport County,Rodney Parade,NP19 0UU,Wales,51.589577,-2.99125,League Two,4,Professional 
-Salford City,The Peninsula Stadium,M7 3PZ,Manchester,53.513743,-2.278354,League Two,4,Professional 
-Shrewsbury Town,Montgomery Waters Meadow,SY2 6ST,Shropshire,52.688426,-2.748485,League Two,4,Professional 
-Swindon Town,The County Ground,SN1 2ED,Wiltshire,51.564785,-1.769934,League Two,4,Professional 
-Tranmere Rovers,Prenton Park,CH42 9PY,Cheshire,53.373242,-3.035867,League Two,4,Professional 
-Walsall,Poundland Bescot Stadium,WS1 4SA,Birmingham,52.565519,-1.991164,League Two,4,Professional 
-York City,LNER Community Stadium,YO32 9AF,North Riding,53.983549,-1.051904,League Two,4,Professional 
+AFC Bournemouth,Vitality Stadium,BH7 7AF,Hampshire,50.735313,-1.839234,Premier League,1,Professional
+Arsenal,Emirates Stadium,N5 1BU,London,51.556667,-0.106371,Premier League,1,Professional
+Aston Villa,Villa Park,B6 6HE,Birmingham,52.508486,-1.884946,Premier League,1,Professional
+Brentford,Brentford Community Stadium,TW8 9BW,London,51.491117,-0.290548,Premier League,1,Professional
+Brighton & Hove Albion,Amex Stadium,BN1 9BL,Sussex,50.860916,-0.08428,Premier League,1,Professional
+Burnley,Turf Moor,BB10 4BX,Lancashire,53.78847,-2.230325,Premier League,1,Professional
+Chelsea,Stamford Bridge,SW6 1HS,Surrey,51.481124,-0.190297,Premier League,1,Professional
+Crystal Palace,Selhurst Park,SE25 6PU,Surrey,51.397894,-0.085923,Premier League,1,Professional
+Everton,Goodison Park,L4 4EL,Lancashire,53.439197,-2.967017,Premier League,1,Professional
+Fulham,Craven Cottage,SW6 6HH,London,51.47452,-0.22061,Premier League,1,Professional
+Leeds United,Elland Road,LS11 0ES,West Riding,53.777714,-1.573104,Premier League,1,Professional
+Liverpool,Anfield,L4 0TH,Lancashire,53.431267,-2.961584,Premier League,1,Professional
+Manchester City,Etihad Stadium,M11 3FF,Manchester,53.484206,-2.202812,Premier League,1,Professional
+Manchester United,Old Trafford,M16 0RA,Manchester,53.462559,-2.291032,Premier League,1,Professional
+Newcastle United,St. James' Park,NE1 4ST,Northumberland,54.975219,-1.622324,Premier League,1,Professional
+Nottingham Forest,The City Ground,NG2 5FJ,Nottinghamshire,52.939444,-1.133199,Premier League,1,Professional
+Sheffield United,Bramall Lane,S2 4SU,Sheffield & Hallamshire,53.36986,-1.470512,Premier League,1,Professional
+Tottenham Hotspur,Tottenham Hotspur Stadium,N17 0BX,London,51.6042,-0.067574,Premier League,1,Professional
+West Ham United,London Stadium,E20 2ST,London,51.538636,-0.016403,Premier League,1,Professional
+Wolverhampton Wanderers,Molineux Stadium,WV1 4QR,Birmingham,52.590195,-2.131226,Premier League,1,Professional
+Birmingham City,St. Andrew's Stadium,B9 4RL,Birmingham,52.474922,-1.864112,Championship,2,Professional
+Blackburn Rovers,Ewood Park,BB2 4JF,Lancashire,53.728618,-2.489965,Championship,2,Professional
+Bristol City,Ashton Gate Stadium,BS3 2EJ,Gloucestershire,51.440713,-2.620602,Championship,2,Professional
+Coventry City,Coventry Building Society Arena,CV6 6GE,Birmingham,52.448773,-1.496282,Championship,2,Professional
+Derby County,Pride Park Stadium,DE24 8XL,Derbyshire,52.914633,-1.447968,Championship,2,Professional
+Hull City,MKM Stadium,HU3 6HU,East Riding,53.745731,-0.368016,Championship,2,Professional
+Ipswich Town,Portman Road,IP1 2DA,Suffolk,52.054732,1.144614,Championship,2,Professional
+Leicester City,King Power Stadium,LE2 7FL,Leicestershire & Rutland,52.620044,-1.1415,Championship,2,Professional
+Middlesbrough,Riverside Stadium,TS3 6RS,North Riding,54.578124,-1.217764,Championship,2,Professional
+Millwall,The Den,SE16 3LN,London,51.486671,-0.051053,Championship,2,Professional
+Norwich City,Carrow Road,NR1 1JE,Norfolk,52.62238,1.308603,Championship,2,Professional
+Oxford United,Kassam Stadium,OX4 4XP,Oxfordshire,51.717066,-1.210957,Championship,2,Professional
+Portsmouth,Fratton Park,PO4 8RA,Hampshire,50.795923,-1.064882,Championship,2,Professional
+Preston North End,Deepdale,PR1 6RU,Lancashire,53.772236,-2.689327,Championship,2,Professional
+Queens Park Rangers,Loftus Road Stadium,W12 7PA,London,51.51023,-0.23082,Championship,2,Professional
+Sheffield Wednesday,Hillsborough Stadium,S6 1SW,Sheffield & Hallamshire,53.410844,-1.500859,Championship,2,Professional
+Southampton,St. Mary's Stadium,SO14 5FP,Hampshire,50.90653,-1.390823,Championship,2,Professional
+Stockport County,Edgeley Park,SK3 9DD,Cheshire,53.399922,-2.167127,Championship,2,Professional
+Stoke City,bet365 Stadium,ST4 4EG,Staffordshire,52.988255,-2.176078,Championship,2,Professional
+Sunderland,Stadium of Light,SR5 1SU,Durham,54.914063,-1.3893,Championship,2,Professional
+Swansea City,Swansea.com Stadium,SA1 2FA,Wales,51.642156,-3.935119,Championship,2,Professional
+Watford,Vicarage Road Stadium,WD18 0ER,Hertfordshire,51.649275,-0.400727,Championship,2,Professional
+West Bromwich Albion,The Hawthorns,B71 4LF,Birmingham,52.509003,-1.963299,Championship,2,Professional
+Wrexham,Racecourse Ground,LL11 2AH,Wales,53.051259,-3.003854,Championship,2,Professional
+Barnsley,Oakwell Stadium,S71 1ET,Sheffield & Hallamshire,53.552266,-1.468631,League One,3,Professional
+Blackpool,Bloomfield Road,FY1 6JJ,Lancashire,53.805489,-3.04853,League One,3,Professional
+Bolton Wanderers,University of Bolton Stadium,BL6 6JW,Lancashire,53.580169,-2.536279,League One,3,Professional
+Bradford City,University of Bradford Stadium,BD8 7DY,West Riding,53.803578,-1.759482,League One,3,Professional
+Burton Albion,Pirelli Stadium,DE13 0AR,Birmingham,52.821462,-1.627002,League One,3,Professional
+Cardiff City,Cardiff City Stadium,CF11 8AZ,Wales,51.47332,-3.206425,League One,3,Professional
+Charlton Athletic,The Valley,SE7 8BL,London,51.486242,0.037152,League One,3,Professional
+Doncaster Rovers,The Eco-Power Stadium,DN4 5JW,Sheffield & Hallamshire,53.509088,-1.113845,League One,3,Professional
+Exeter City,St. James' Park,EX4 6PX,Devon,50.730109,-3.520741,League One,3,Professional
+Huddersfield Town,The John Smith's Stadium,HD1 6PX,West Riding,53.654016,-1.773209,League One,3,Professional
+Leyton Orient,Breyer Group Stadium,E10 5NF,London,51.560212,-0.011886,League One,3,Professional
+Lincoln City,LNER Stadium,LN5 8LD,Lincolnshire,53.218176,-0.540056,League One,3,Professional
+Luton Town,Kenilworth Stadium,LU4 8AW,Bedfordshire,51.884014,-0.43236,League One,3,Professional
+Mansfield Town,One Call Stadium,NG18 5DA,Nottinghamshire,53.137436,-1.200135,League One,3,Professional
+Milton Keynes Dons,Stadium MK,MK1 1ST,Berkshire & Buckinghamshire,52.010801,-0.734859,League One,3,Professional
+Northampton Town,Sixfields Stadium,NN5 5QA,Northamptonshire,52.23506,-0.934214,League One,3,Professional
+Notts County,Meadow Lane Stadium,NG2 3HJ,Nottinghamshire,52.942243,-1.136105,League One,3,Professional
+Peterborough United,Weston Homes Stadium,PE2 8AL,Northamptonshire,52.565257,-0.240279,League One,3,Professional
+Plymouth Argyle,Home Park,PL2 3DQ,Devon,50.387394,-4.1517,League One,3,Professional
+Port Vale,Vale Park,ST6 1AW,Staffordshire,53.050408,-2.191697,League One,3,Professional
+Reading,The Select Car Leasing Stadium,RG2 0FL,Berkshire & Buckinghamshire,51.422325,-0.983497,League One,3,Professional
+Rotherham United,AESSEAL New York Stadium,S60 1FJ,Sheffield & Hallamshire,53.426838,-1.361705,League One,3,Professional
+Stevenage,The Lamex Stadium,SG2 8RH,Hertfordshire,51.890106,-0.194288,League One,3,Professional
+Wigan Athletic,DW Stadium,WN5 0UH,Lancashire,53.543987,-2.653787,League One,3,Professional
+Wycombe Wanderers,Adams Park,HP12 4HJ,Berkshire & Buckinghamshire,51.631583,-0.795977,League One,3,Professional
+Accrington Stanley,Wham Stadium,BB5 5BX,Lancashire,53.764175,-2.370435,League Two,4,Professional
+AFC Wimbledon,Cherry Red Records Stadium,SW17 0NR,Surrey,51.431274,-0.186585,League Two,4,Professional
+Barnet,The Hive,HA8 6AG,Middlesex,51.601518,-0.288874,League Two,4,Professional
+Barrow,The Dunes Hotel Stadium,LA14 5UW,Lancashire,54.123653,-3.235026,League Two,4,Professional
+Bristol Rovers,Memorial Stadium,BS7 0AQ,Gloucestershire,51.487415,-2.583805,League Two,4,Professional
+Bromley,Hayes Lane,BR2 9EF,Kent,51.390984,0.01771,League Two,4,Professional
+Cambridge United,Abbey Stadium,CB5 8LN,Cambridgeshire,52.212845,0.154021,League Two,4,Professional
+Cheltenham Town,The Completely Suzuki Stadium,GL52 5NA,Gloucestershire,51.905576,-2.062093,League Two,4,Professional
+Chesterfield,Technique Stadium,S41 8NZ,Derbyshire,53.253614,-1.425003,League Two,4,Professional
+Colchester United,JobServe Community Stadium,CO4 5UP,Essex,51.923322,0.896991,League Two,4,Professional
+Crawley Town,Broadfield Stadium,RH11 9RX,Sussex,51.099568,-0.195395,League Two,4,Professional
+Crewe Alexandra,Mornflake Stadium,CW2 6EB,Cheshire,53.087931,-2.436102,League Two,4,Professional
+Fleetwood Town,Highbury Stadium,FY7 6TX,Lancashire,53.916823,-3.022953,League Two,4,Professional
+Gillingham,MEMS Priestfield Stadium,ME7 4DD,Kent,51.384873,0.55976,League Two,4,Professional
+Grimsby Town,Blundell Park,DN35 7PY,Lincolnshire,53.570821,-0.046658,League Two,4,Professional
+Harrogate Town,The EnviroVent Stadium,HG2 7SA,West Riding,53.991495,-1.517051,League Two,4,Professional
+Newport County,Rodney Parade,NP19 0UU,Wales,51.589577,-2.99125,League Two,4,Professional
+Salford City,The Peninsula Stadium,M7 3PZ,Manchester,53.513743,-2.278354,League Two,4,Professional
+Shrewsbury Town,Montgomery Waters Meadow,SY2 6ST,Shropshire,52.688426,-2.748485,League Two,4,Professional
+Swindon Town,The County Ground,SN1 2ED,Wiltshire,51.564785,-1.769934,League Two,4,Professional
+Tranmere Rovers,Prenton Park,CH42 9PY,Cheshire,53.373242,-3.035867,League Two,4,Professional
+Walsall,Poundland Bescot Stadium,WS1 4SA,Birmingham,52.565519,-1.991164,League Two,4,Professional
+York City,LNER Community Stadium,YO32 9AF,North Riding,53.983549,-1.051904,League Two,4,Professional
 Aldershot Town,EBB Stadium,GU11 1TW,Hampshire,51.248865,-0.755051,National League,5,Step 1
 Altrincham,J Davidson Stadium,WA15 8AP,Cheshire,53.382975,-2.335214,National League,5,Step 1
 Boreham Wood,LV Bet Stadium,WD6 5AL,Hertfordshire,51.662119,-0.273709,National League,5,Step 1
